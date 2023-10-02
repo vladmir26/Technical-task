@@ -1,0 +1,15 @@
+body {
+    background-color: #030A1D;
+}
+
+.list {
+    display: flex;
+    justify-content: center;
+    list-style: none;
+    color: #fff;
+    font-family: Nunito;
+    font-size: 17px;
+    font-weight: 700;
+}
+
+
