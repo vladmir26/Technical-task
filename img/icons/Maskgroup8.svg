@@ -1,0 +1,18 @@
+<svg width="275" height="275" viewBox="0 0 275 275" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Mask group">
+<mask id="mask0_15_228" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="34" y="33" width="208" height="208">
+<circle id="Ellipse 138" cx="137.715" cy="137.086" r="103.309" transform="rotate(65.2991 137.715 137.086)" fill="#FDB51D"/>
+</mask>
+<g mask="url(#mask0_15_228)">
+<path id="Vector 30" d="M203.7 30.2104C193.549 54.7858 168.682 105.678 150.43 112.643C127.616 121.349 95.5225 93.5571 78.2501 115.09C64.4322 132.317 19.9246 159.321 -0.601919 170.669" stroke="#FF7738" stroke-width="16" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector 31" d="M230.28 75.5574C223.145 95.2885 205.205 136.725 190.528 144.62C172.182 154.489 134.427 153.26 108.749 165.071C75.3975 180.412 55.3918 209.996 53.532 226.943" stroke="#FF7738" stroke-width="16" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector 32" d="M249.397 153.659C240.176 166.005 217.568 191.9 200.898 196.707C180.061 202.716 135.807 209.125 123.068 216.415C110.329 223.704 85.702 247.905 79.7925 273.152" stroke="#FF7738" stroke-width="16" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector 33" d="M144.601 23.7807C142.79 37.7252 141.489 61.3288 125.551 68.6597C109.613 75.9907 71.0539 65.2385 50.6143 62.0051" stroke="#FF7738" stroke-width="16" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector 34" d="M171.306 25.0862C167.315 46.4702 174.816 82.474 141.884 89.3971C124.808 92.987 94.13 82.7551 63.4407 92.2224C49.1068 96.6443 9.48764 124.191 2.41568 136.026" stroke="#FFC702" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector 35" d="M117.117 28.5554C119.492 34.4957 121.84 46.9087 112.235 49.0382C102.63 51.1677 79.545 44.0494 69.2033 40.224" stroke="#FFC702" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector 36" d="M213.712 218.347C196.899 218.333 162.188 221.418 153.645 223.805C121.958 232.659 123.191 249.852 112.778 260.125" stroke="#FFC702" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector 37" d="M247.196 118.554C235.284 136.191 208.767 171.989 198 174.081C184.542 176.695 144.355 178.731 124.58 187.827C104.805 196.922 71.4415 221.566 64.5344 246.198" stroke="#FFC702" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector 38" d="M213.516 54.6604C207.567 75.157 192.165 117.548 178.144 123.139C160.618 130.127 131.606 123.804 104.293 136.725C76.9802 149.646 42.4711 182.683 35.4876 196.265" stroke="#FFC702" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+</g>
+</svg>

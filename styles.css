@@ -2,7 +2,7 @@ body {
     background-color: #030A1D;
 }
 
-.list {
+.menu {
     display: flex;
     justify-content: center;
     list-style: none;
@@ -10,6 +10,64 @@ body {
     font-family: Nunito;
     font-size: 17px;
     font-weight: 700;
+}
+
+.title-block__heading {
+    text-align: center;
+    font-family: Racing Sans One;
+    font-size: 160px;
+    color: #070A53;
+}
+
+.title-block__text-first {
+    text-align: center;
+    font-family: Nunito;
+    font-size: 40px;
+    color: #fff;
+}
+
+.title-block__text-second {
+    text-align: center;
+    font-family: Nunito;
+    font-size: 48px;
+    color: #fff;
+}
+
+.description-block__heading {
+    color: #FFF;
+    text-align: center;
+    font-family: Nunito;
+    font-size: 52px;
+    font-weight: 900;
+}
+
+.description-block__title {
+    color: #7BD0FF;
+    font-family: Nunito;
+    font-size: 36px;
+    font-weight: 700;
+}
+
+.description-block__text {
+    color: #FFF;
+    font-family: Nunito;
+    font-size: 18px;
+    font-weight: 500;  
+}
+
+.description-block__button {
+    width: 286px;
+    height: 50px;
+    border-radius: 50px;
+    background-color: #0F64FB;
+    color: #FFF;
+    text-align: center;
+    font-family: Nunito;
+    font-size: 16px;
+    font-weight: 800;
+}
+.description-block__button-color {
+    background-color: #FB2B0F;
 }
 
 
