@@ -2,73 +2,148 @@ body {
     background-color: #030A1D;
 }
 
+header {
+    width: 1693px;
+    height: 1000px;
+    background-image: url("./img/icons/Group\ 142.svg");
+    background-position: center;
+    background-repeat: no-repeat;
+    position: relative;
+}
 .menu {
     display: flex;
     justify-content: center;
+    margin-bottom: 0;
     list-style: none;
     color: #fff;
     font-family: Nunito;
     font-size: 17px;
     font-weight: 700;
+    gap: 48px;
 }
 
-.icon-star-16 {
-    width: 21px;
-    height: 21px;
-    margin-top: 88px;
-    margin-left: 98px;
-    background-image: url('./img/icons/Star\ 16.svg');
+.icon-ellipse-129 {
+    position: absolute;
+    top: 38px;
+    left: 601px;
+    width: 370px;
+    height: 65px;
+    background-image: url('./img/icons/Ellipse\ 129.svg');
     background-repeat: no-repeat;
 }
 
-.icon-star-11 {
-    width: 21px;
-    height: 21px;
-    margin-top: 100px;
-    background-image: url('./img/icons/Star\ 11.svg');
+.icon-ellipse-127 {
+    position: absolute;
+    top: 65px;
+    right: -390px;
+    width: 730px;
+    height: 87px;
+    background-image: url('./img/icons/Ellipse\ 127.svg');
     background-repeat: no-repeat;
 }
 
 .icon-vector-16 {
+    margin-top: 180px;
     width: 2230px;
     height: 200px;
     background-image: url('./img/icons/Vector\ 16.svg');
     background-repeat: no-repeat;
 }
 
+
+
 .icon-vector-11 {
     position: absolute;
+    margin-top: 113px;
     width: 723px;
     height: 220px;
     background-image: url('./img/icons/Vector\ 11.svg');
     background-repeat: no-repeat;
 }
 
-
-
-.icon-star-6 {
-    position: relative;
-    top: 48px;
-    left: 350px;
-    width: 43px;
-    height: 43px;
-    background-image: url('./img/icons/Star\ 6.svg');
+.icon-vector-12 {
+    width: 1209px;
+    height: 139px;
+    background-image: url('./img/icons/Vector\ 12.svg');
     background-repeat: no-repeat;
+    position: absolute;
+    top: 240px;
+    right: -370px;
 }
 
-
 .title-block__heading {
+    margin-top: 0;
     text-align: center;
     font-family: Racing Sans One;
     font-size: 160px;
-    color: #070A53;
+    color: #fff;
+    text-shadow: #070A53 10px 20px;
+    position: relative;
+}
+
+.icon-ellipse-126 {
+    width: 730px;
+    height: 162px;
+    background-image: url('./img/icons/Ellipse\ 126.svg');
+    background-repeat: no-repeat;
+    position: absolute;
+    top: 490px;
+    left: 45px;    
+}
+
+.icon-ellipse-128 {
+    width: 370px;
+    height: 65px;
+    background-image: url('./img/icons/Ellipse\ 128.svg');
+    background-repeat: no-repeat;
+    position: absolute;
+    bottom: 350px;
+    right: 270px;
+    
 }
 
 .title-block__text-first {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 705px;
+    margin-top: 0;
     text-align: center;
     font-family: Nunito;
     font-size: 40px;
+    line-height: 42px;
     color: #fff;
+}
+
+.title-block {
+    position: absolute;
+}
+
+.icon-vector-63 {
+    position: relative;
+    bottom: 1000px;
+    width: 716px;
+    height: 961px;
+    background-image: url('./img/icons/Vector\ 63.svg');
+    background-repeat: no-repeat;
+}
+
+.icon-mask-group {
+    position: relative;
+    bottom: 800px;
+    width: 1919px;
+    height: 942px;
+    background-image: url('./img/icons/Mask\ group.svg');
+    background-repeat: no-repeat;
+}
+
+.icon-mask-group-12 {
+    position: relative;
+    bottom: 1850px;
+    width: 1920px;
+    height: 979px;
+    background-image: url('./img/icons/Maskgroup-12.svg');
+    background-repeat: no-repeat;
 }
 
 .title-block__text-second {
@@ -79,6 +154,7 @@ body {
 }
 
 .description-block__heading {
+    margin-top: 600px;
     color: #FFF;
     text-align: center;
     font-family: Nunito;
