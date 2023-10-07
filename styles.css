@@ -15,11 +15,15 @@ header {
     justify-content: center;
     margin-bottom: 0;
     list-style: none;
-    color: #fff;
     font-family: Nunito;
     font-size: 17px;
     font-weight: 700;
     gap: 48px;
+}
+
+.menu__link {
+    color: #fff;
+    text-decoration: none;
 }
 
 .icon-ellipse-129 {
@@ -186,6 +190,7 @@ header {
     font-family: Nunito;
     font-size: 16px;
     font-weight: 800;
+    border: none;
 }
 .description-block__button-color {
     background-color: #FB2B0F;
